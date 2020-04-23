@@ -2,11 +2,11 @@
 
 This project is a demo for multipart file upload in flutter using following  options.
 
-Application will allow you to select a picture from gallery or take a picture from camera and upload it to server.Addtionally image compression also included
-
 1. HTTP
 2. Dio
 3. Chopper
+
+Application will allow you to select a picture from gallery or take a picture from camera and upload it to server.Addtionally image compression also included
 
 Build runner command : flutter packages pub run build_runner watch
 
